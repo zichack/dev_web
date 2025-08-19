@@ -1,0 +1,30 @@
+/* Comentário em CSS
+Seletor de elementos - Linha 4*/
+
+h1{
+    color:navy;
+}
+
+body{
+    background-color: aqua;
+}
+
+/*seletor de ID*/
+
+#p1{
+    background-color: gray;
+}
+
+/*Seletor de classe - ele vai com um "ponto"*/
+
+.estiloso{
+    border-style: solid;
+}
+
+p.centraliza{
+    text-align: center;
+}
+
+h3{
+    color: white;
+}
