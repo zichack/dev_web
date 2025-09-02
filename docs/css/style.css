@@ -1,0 +1,49 @@
+/*seletor de ID*/
+body{
+    background-color:black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1,h2,section{
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+.item-menu{
+    color: white;
+    display: inline;
+    margin: 1.0rem;
+    background-color: red;
+    padding: 0.9rem; /*aumenta o tamanho do espaço que o elemento ocupa*/
+    padding-right: 1rem;
+    border-right-style: ridge;
+    border-color: rgb(15, 230, 33);
+    border-width: 7px;
+}
+
+.item-menu:hover{
+    background-color: white;
+}
+
+.item-menu a:hover{
+    text-decoration: none;
+    color: black;
+}
+
+.menu{
+    background-color: red;
+    padding: 0.9rem;
+}
+
+/*seletor de classe*/
+.central{
+    text-align: center;
+}
+
+td{
+    padding: 0.4rem;
+}
+
